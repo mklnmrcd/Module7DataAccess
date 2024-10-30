@@ -7,24 +7,32 @@
       "RelativeMoniker": "D:0:0:{0661A62F-D025-448E-95CD-481B675D333C}|Module7DataAccess\\Module7DataAccess.csproj|solutionrelative:module7dataaccess\\viewmodel\\personalviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0661A62F-D025-448E-95CD-481B675D333C}|Module7DataAccess\\Module7DataAccess.csproj|c:\\users\\21-0475-368\\documents\\pdc50\\module7dataaccess\\module7dataaccess\\services\\personalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0661A62F-D025-448E-95CD-481B675D333C}|Module7DataAccess\\Module7DataAccess.csproj|solutionrelative:module7dataaccess\\services\\personalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0661A62F-D025-448E-95CD-481B675D333C}|Module7DataAccess\\Module7DataAccess.csproj|c:\\users\\21-0475-368\\documents\\pdc50\\module7dataaccess\\module7dataaccess\\view\\viewpersonal.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{0661A62F-D025-448E-95CD-481B675D333C}|Module7DataAccess\\Module7DataAccess.csproj|solutionrelative:module7dataaccess\\view\\viewpersonal.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0661A62F-D025-448E-95CD-481B675D333C}|Module7DataAccess\\Module7DataAccess.csproj|c:\\users\\21-0475-368\\documents\\pdc50\\module7dataaccess\\module7dataaccess\\view\\viewpersonal.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0661A62F-D025-448E-95CD-481B675D333C}|Module7DataAccess\\Module7DataAccess.csproj|solutionrelative:module7dataaccess\\view\\viewpersonal.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0661A62F-D025-448E-95CD-481B675D333C}|Module7DataAccess\\Module7DataAccess.csproj|c:\\users\\21-0475-368\\documents\\pdc50\\module7dataaccess\\module7dataaccess\\services\\personalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0661A62F-D025-448E-95CD-481B675D333C}|Module7DataAccess\\Module7DataAccess.csproj|solutionrelative:module7dataaccess\\services\\personalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0661A62F-D025-448E-95CD-481B675D333C}|Module7DataAccess\\Module7DataAccess.csproj|c:\\users\\21-0475-368\\documents\\pdc50\\module7dataaccess\\module7dataaccess\\model\\personal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0661A62F-D025-448E-95CD-481B675D333C}|Module7DataAccess\\Module7DataAccess.csproj|solutionrelative:module7dataaccess\\model\\personal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0661A62F-D025-448E-95CD-481B675D333C}|Module7DataAccess\\Module7DataAccess.csproj|c:\\users\\21-0475-368\\documents\\pdc50\\module7dataaccess\\module7dataaccess\\services\\databaseconnectionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0661A62F-D025-448E-95CD-481B675D333C}|Module7DataAccess\\Module7DataAccess.csproj|solutionrelative:module7dataaccess\\services\\databaseconnectionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0661A62F-D025-448E-95CD-481B675D333C}|Module7DataAccess\\Module7DataAccess.csproj|c:\\users\\21-0475-368\\documents\\pdc50\\module7dataaccess\\module7dataaccess\\model\\personal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0661A62F-D025-448E-95CD-481B675D333C}|Module7DataAccess\\Module7DataAccess.csproj|solutionrelative:module7dataaccess\\model\\personal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0661A62F-D025-448E-95CD-481B675D333C}|Module7DataAccess\\Module7DataAccess.csproj|c:\\users\\21-0475-368\\documents\\pdc50\\module7dataaccess\\module7dataaccess\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0661A62F-D025-448E-95CD-481B675D333C}|Module7DataAccess\\Module7DataAccess.csproj|solutionrelative:module7dataaccess\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0661A62F-D025-448E-95CD-481B675D333C}|Module7DataAccess\\Module7DataAccess.csproj|c:\\users\\21-0475-368\\documents\\pdc50\\module7dataaccess\\module7dataaccess\\view\\viewpersonal.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0661A62F-D025-448E-95CD-481B675D333C}|Module7DataAccess\\Module7DataAccess.csproj|solutionrelative:module7dataaccess\\view\\viewpersonal.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0661A62F-D025-448E-95CD-481B675D333C}|Module7DataAccess\\Module7DataAccess.csproj|c:\\users\\21-0475-368\\documents\\pdc50\\module7dataaccess\\module7dataaccess\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0661A62F-D025-448E-95CD-481B675D333C}|Module7DataAccess\\Module7DataAccess.csproj|solutionrelative:module7dataaccess\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0661A62F-D025-448E-95CD-481B675D333C}|Module7DataAccess\\Module7DataAccess.csproj|c:\\users\\21-0475-368\\documents\\pdc50\\module7dataaccess\\module7dataaccess\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -33,10 +41,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{0661A62F-D025-448E-95CD-481B675D333C}|Module7DataAccess\\Module7DataAccess.csproj|c:\\users\\21-0475-368\\documents\\pdc50\\module7dataaccess\\module7dataaccess\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{0661A62F-D025-448E-95CD-481B675D333C}|Module7DataAccess\\Module7DataAccess.csproj|solutionrelative:module7dataaccess\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0661A62F-D025-448E-95CD-481B675D333C}|Module7DataAccess\\Module7DataAccess.csproj|c:\\users\\21-0475-368\\documents\\pdc50\\module7dataaccess\\module7dataaccess\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{0661A62F-D025-448E-95CD-481B675D333C}|Module7DataAccess\\Module7DataAccess.csproj|solutionrelative:module7dataaccess\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,46 +50,51 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 7,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "AppShell.xaml",
-              "DocumentMoniker": "C:\\Users\\21-0475-368\\Documents\\PDC50\\Module7DataAccess\\Module7DataAccess\\AppShell.xaml",
-              "RelativeDocumentMoniker": "Module7DataAccess\\AppShell.xaml",
-              "ToolTip": "C:\\Users\\21-0475-368\\Documents\\PDC50\\Module7DataAccess\\Module7DataAccess\\AppShell.xaml",
-              "RelativeToolTip": "Module7DataAccess\\AppShell.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAfAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\21-0475-368\\Documents\\PDC50\\Module7DataAccess\\Module7DataAccess\\App.xaml",
+              "RelativeDocumentMoniker": "Module7DataAccess\\App.xaml",
+              "ToolTip": "C:\\Users\\21-0475-368\\Documents\\PDC50\\Module7DataAccess\\Module7DataAccess\\App.xaml",
+              "RelativeToolTip": "Module7DataAccess\\App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-16T04:33:02.231Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-30T05:39:39.405Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ViewPersonal.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\21-0475-368\\Documents\\PDC50\\Module7DataAccess\\Module7DataAccess\\View\\ViewPersonal.xaml.cs",
-              "RelativeDocumentMoniker": "Module7DataAccess\\View\\ViewPersonal.xaml.cs",
-              "ToolTip": "C:\\Users\\21-0475-368\\Documents\\PDC50\\Module7DataAccess\\Module7DataAccess\\View\\ViewPersonal.xaml.cs",
-              "RelativeToolTip": "Module7DataAccess\\View\\ViewPersonal.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T04:24:31.338Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "ViewPersonal.xaml",
               "DocumentMoniker": "C:\\Users\\21-0475-368\\Documents\\PDC50\\Module7DataAccess\\Module7DataAccess\\View\\ViewPersonal.xaml",
               "RelativeDocumentMoniker": "Module7DataAccess\\View\\ViewPersonal.xaml",
               "ToolTip": "C:\\Users\\21-0475-368\\Documents\\PDC50\\Module7DataAccess\\Module7DataAccess\\View\\ViewPersonal.xaml",
               "RelativeToolTip": "Module7DataAccess\\View\\ViewPersonal.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADYAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-16T04:17:00.472Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-16T04:17:00.472Z"
             },
             {
               "$type": "Document",
@@ -95,46 +104,46 @@
               "RelativeDocumentMoniker": "Module7DataAccess\\ViewModel\\PersonalViewModel.cs",
               "ToolTip": "C:\\Users\\21-0475-368\\Documents\\PDC50\\Module7DataAccess\\Module7DataAccess\\ViewModel\\PersonalViewModel.cs",
               "RelativeToolTip": "Module7DataAccess\\ViewModel\\PersonalViewModel.cs",
-              "ViewState": "AgIAADYAAAAAAAAAAAArwEQAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAMEAAAAAAAAAAAAAANUAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-16T02:30:12.612Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "PersonalService.cs",
               "DocumentMoniker": "C:\\Users\\21-0475-368\\Documents\\PDC50\\Module7DataAccess\\Module7DataAccess\\Services\\PersonalService.cs",
               "RelativeDocumentMoniker": "Module7DataAccess\\Services\\PersonalService.cs",
               "ToolTip": "C:\\Users\\21-0475-368\\Documents\\PDC50\\Module7DataAccess\\Module7DataAccess\\Services\\PersonalService.cs",
               "RelativeToolTip": "Module7DataAccess\\Services\\PersonalService.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAQwDAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCUAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-16T02:06:58.849Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "Personal.cs",
               "DocumentMoniker": "C:\\Users\\21-0475-368\\Documents\\PDC50\\Module7DataAccess\\Module7DataAccess\\Model\\Personal.cs",
               "RelativeDocumentMoniker": "Module7DataAccess\\Model\\Personal.cs",
               "ToolTip": "C:\\Users\\21-0475-368\\Documents\\PDC50\\Module7DataAccess\\Module7DataAccess\\Model\\Personal.cs",
               "RelativeToolTip": "Module7DataAccess\\Model\\Personal.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-16T02:02:39.515Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "MainPage.xaml.cs",
               "DocumentMoniker": "C:\\Users\\21-0475-368\\Documents\\PDC50\\Module7DataAccess\\Module7DataAccess\\MainPage.xaml.cs",
               "RelativeDocumentMoniker": "Module7DataAccess\\MainPage.xaml.cs",
               "ToolTip": "C:\\Users\\21-0475-368\\Documents\\PDC50\\Module7DataAccess\\Module7DataAccess\\MainPage.xaml.cs",
               "RelativeToolTip": "Module7DataAccess\\MainPage.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAABDAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-16T01:31:36.831Z",
               "EditorCaption": ""
@@ -147,20 +156,46 @@
               "RelativeDocumentMoniker": "Module7DataAccess\\Services\\DatabaseConnectionService.cs",
               "ToolTip": "C:\\Users\\21-0475-368\\Documents\\PDC50\\Module7DataAccess\\Module7DataAccess\\Services\\DatabaseConnectionService.cs",
               "RelativeToolTip": "Module7DataAccess\\Services\\DatabaseConnectionService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-16T01:32:09.428Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ViewPersonal.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\21-0475-368\\Documents\\PDC50\\Module7DataAccess\\Module7DataAccess\\View\\ViewPersonal.xaml.cs",
+              "RelativeDocumentMoniker": "Module7DataAccess\\View\\ViewPersonal.xaml.cs",
+              "ToolTip": "C:\\Users\\21-0475-368\\Documents\\PDC50\\Module7DataAccess\\Module7DataAccess\\View\\ViewPersonal.xaml.cs",
+              "RelativeToolTip": "Module7DataAccess\\View\\ViewPersonal.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T04:24:31.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\21-0475-368\\Documents\\PDC50\\Module7DataAccess\\Module7DataAccess\\AppShell.xaml",
+              "RelativeDocumentMoniker": "Module7DataAccess\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\21-0475-368\\Documents\\PDC50\\Module7DataAccess\\Module7DataAccess\\AppShell.xaml",
+              "RelativeToolTip": "Module7DataAccess\\AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-16T04:33:02.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "MainPage.xaml",
               "DocumentMoniker": "C:\\Users\\21-0475-368\\Documents\\PDC50\\Module7DataAccess\\Module7DataAccess\\MainPage.xaml",
               "RelativeDocumentMoniker": "Module7DataAccess\\MainPage.xaml",
               "ToolTip": "C:\\Users\\21-0475-368\\Documents\\PDC50\\Module7DataAccess\\Module7DataAccess\\MainPage.xaml",
               "RelativeToolTip": "Module7DataAccess\\MainPage.xaml",
-              "ViewState": "AgIAABAAAAAAAAAAAAAAACwAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAIBZwCEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-10-16T01:31:33.142Z",
               "EditorCaption": ""

@@ -29,6 +29,40 @@ namespace Module7DataAccess.ViewModel
 
         }
 
+        private Personal _selectedPersonal;
+        public Personal SelectedPersonal
+        {
+            get => _selectedPersonal;
+            set
+            {
+                _selectedPersonal = value;
+                if (_selectedPersonal != null)
+                {
+                    NewPersonalName = _selectedPersonal.Name;
+                    NewPersonalGender = _selectedPersonal.Gender;
+                    NewPersonalContactNo = _selectedPersonal.ContactNo;
+
+                    IsPersonSelected = true;
+                }
+                else
+                {
+                    IsPersonSelected = false;
+                }
+                OnPropertyChanged();
+            }
+        }
+
+        private bool _isPersonSelected;
+        public bool IsPersonSelected
+        {
+            get => _isPersonSelected;
+            set
+            {
+                _isPersonSelected = value;
+                OnPropertyChanged();
+            }
+        }
+
         private string _statusMessage;
         public string StatusMessage
         {
@@ -40,7 +74,44 @@ namespace Module7DataAccess.ViewModel
             }
         }
 
+        // New Personal entry for name, gender, contact no
+        private string _newPersonalName;
+        public string NewPersonalName
+        {
+            get => _newPersonalName;
+            set
+            {
+                _newPersonalName = value;
+                OnPropertyChanged();
+            }
+        }
+
+        private string _newPersonalGender;
+        public string NewPersonalGender
+        {
+            get => _newPersonalGender;
+            set
+            {
+                _newPersonalGender = value;
+                OnPropertyChanged();
+            }
+        }
+
+        private string _newPersonalContactNo;
+        public string NewPersonalContactNo
+        {
+            get => _newPersonalContactNo;
+            set
+            {
+                _newPersonalContactNo = value;
+                OnPropertyChanged();
+            }
+        }
+
         public ICommand LoadDataCommand { get; }
+        public ICommand AddPersonalCommand { get; }
+        public ICommand SelectedPersonCommand { get; }
+        public ICommand DeletePersonCommand { get; }
 
         //PersonalViewModel Contructor
 
@@ -49,6 +120,11 @@ namespace Module7DataAccess.ViewModel
             _personalService = new PersonalService();
             PersonalList = new ObservableCollection<Personal>();
             LoadDataCommand = new Command(async () => await LoadData());
+            AddPersonalCommand = new Command(async () => await AddPerson());
+            SelectedPersonCommand = new Command<Personal>(person => SelectedPersonal = person);
+            DeletePersonCommand = new Command(async() => 
+                                  await DeletePersonal(), () =>
+                                  SelectedPersonal != null);
 
             LoadData();
         }
@@ -71,6 +147,77 @@ namespace Module7DataAccess.ViewModel
             catch (Exception ex)
             {
                 StatusMessage = $"Failed to load data: {ex.Message}";
+            }
+            finally
+            {
+                IsBusy = false;
+            }
+        }
+
+        private async Task AddPerson()
+        {
+            if(IsBusy || string.IsNullOrWhiteSpace(NewPersonalName) || string.IsNullOrWhiteSpace(NewPersonalGender) || string.IsNullOrWhiteSpace(NewPersonalContactNo))
+                {
+                    StatusMessage = "Please fill in all fields before adding";
+                    return;
+                }
+            IsBusy = true;
+            StatusMessage = "Adding new person...";
+
+            try
+            {
+                var newPerson = new Personal
+                {
+                    Name = NewPersonalName,
+                    Gender = NewPersonalGender,
+                    ContactNo = NewPersonalContactNo
+                };
+                var isSuccess = await _personalService.AddPersonalAsync(newPerson);
+                if (isSuccess)
+                {
+                    NewPersonalName = string.Empty;
+                    NewPersonalGender = string.Empty;
+                    NewPersonalContactNo = string.Empty;
+                    StatusMessage = "New person added successfully";
+                }
+                else
+                {
+                    StatusMessage = "Failed to add the new person";
+                }
+            }
+            catch (Exception ex)
+            {
+                StatusMessage = $"Failed adding person: {ex.Message}";
+            }
+            finally { IsBusy = false; }
+        }
+
+        private async Task DeletePersonal()
+        {
+            if (SelectedPersonal == null) return;
+            var answer = await Application.Current.MainPage.DisplayAlert
+                ("Confirm Delete", $"Are you sure you want to delete {SelectedPersonal.Name}?", 
+                "Yes", "No");
+
+            if (!answer) return;
+
+            IsBusy = true;
+            StatusMessage = "Deleting person..";
+
+            try
+            {
+                var success = await _personalService.DeletePersonalAsync(SelectedPersonal.ID);
+                StatusMessage = success ? "Person deleted successfully!" : "Failed to delete person";
+
+                if (success)
+                {
+                    PersonalList.Remove(SelectedPersonal);
+                    SelectedPersonal = null;
+                }
+            }
+            catch (Exception ex)
+            {
+                StatusMessage = $"Error deleting person: {ex.Message}";
             }
             finally
             {

@@ -30,7 +30,7 @@
     <AppXManifest Include="C:\Users\21-0475-368\Documents\PDC50\Module7DataAccess\Module7DataAccess\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2024-10-16T05:04:53.577</Modified>
+      <Modified>2024-10-30T05:29:08.359</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
@@ -44,11 +44,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\21-0475-368\Documents\PDC50\Module7DataAccess\Module7DataAccess\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Module7DataAccess.dll">
       <PackagePath>Module7DataAccess.dll</PackagePath>
-      <Modified>2024-10-16T05:04:53.207</Modified>
+      <Modified>2024-10-30T05:29:07.360</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\21-0475-368\Documents\PDC50\Module7DataAccess\Module7DataAccess\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>Module7DataAccess.exe</PackagePath>
-      <Modified>2024-10-16T05:04:53.212</Modified>
+      <Modified>2024-10-30T05:29:07.439</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\21-0475-368\Documents\PDC50\Module7DataAccess\Module7DataAccess\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
